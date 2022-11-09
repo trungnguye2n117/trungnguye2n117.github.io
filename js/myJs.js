@@ -2,15 +2,15 @@ const textConfig = {
   text1: "He luu cậu!",
   text2: "Tớ có điều này muốn hỏi cậu nhớ phải trả lời thật lòng nhaaa.",
   text3: "Cậu đang buồn có phải không nào ._.",
-  text4: "Nếu cậu ko trả lời mà thoát ra tức là muốn là tớ buồn đso :v",
+  text4: "Nếu cậu ko trả lời mà thoát ra là tớ buồn đó :v",
   text5: "Ừm đang buồn lắm???",
   text6: "Tớ đang vui lắm <3",
   text7: "Nhập vào đây đi :vvvv",
   text8: "Gửi cho tớ <3",
-  text9: "Vì nay là sinh nhật cậu mà, vui vẻ nhé!!!",
-  text10: "Chúc cậu sinh nhật vui vẻ",
+  text9: "Vì hôm nay là sinh nhật cậu mà, hãy vui vẻ lên nhé!!!",
+  text10: "9/11,Chúc cậu sinh nhật vui vẻ ",
   text11:
-    "Hôm nào nay tớ qua đón cậu đi chơi nhaa :v Còn giờ thì chờ gì nữa mà ko inbox cho tớ đi nàooo",
+    "Hôm nào có dịp tớ qua đón cậu đi chơi nhaa :v Còn giờ thì chờ gì nữa mà ko nhắn cho tớ đi nàooo",
   text12: "Okii lunn <3",
 };
 
