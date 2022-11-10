@@ -7,10 +7,10 @@ const textConfig = {
   text6: "Tớ đang vui lắm <3",
   text7: "Nhập vào đây đi :vvvv",
   text8: "Gửi cho tớ <3",
-  text9: "Vì hôm nay là sinh nhật cậu mà, hãy vui vẻ lên nhé!!!",
-  text10: "9/11,Chúc cậu sinh nhật vui vẻ ",
+  text9: "Đừng buồn nhé, cậu vẫn đang làm tốt lắm, hãy vui vẻ lênnnnnn,!!!",
+  text10: "Chúc cậu luôn vui vẻ",
   text11:
-    "Hôm nào có dịp tớ qua đón cậu đi chơi nhaa :v Còn giờ thì chờ gì nữa mà ko nhắn cho tớ đi nàooo",
+    "À quên sắp tới, chúc cậu 10 điểm quốc phòng luôn nhé, oge khum",
   text12: "Okii lunn <3",
 };
 
